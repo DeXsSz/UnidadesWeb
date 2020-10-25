@@ -1,8 +1,9 @@
-# WebPack Starter
+# Convertir Diferente Unidades
 
-Este es el proyecto inicial para aplicaciones usando webpack
+Este es el proyecto inicial para convertir unidades como Libras, kilos y gramos entre si!
 
 ### Notas:
+IMPORTANTE: CORRER EN EL SERVIDOR NPM START DEL WEBPACK!
 Reconstruir los módulos de Node
 
 ```
